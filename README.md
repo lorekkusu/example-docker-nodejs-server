@@ -1,4 +1,4 @@
-# example-docker
+# example-docker-nodejs-server
 
 example for running a node.js server on docker
 
@@ -21,7 +21,7 @@ make run
 ### Clean
 
 ```shell
-make -i clean # -i --ignore-error
+make clean
 ```
 
 ### Publish
