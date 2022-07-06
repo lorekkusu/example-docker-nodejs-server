@@ -11,7 +11,7 @@ example for running a node.js server on docker
 
 ## Usage
 
-### Build & Rrun
+### Build & Run
 
 ```shell
 make build
