@@ -4,7 +4,7 @@ example for running a node.js server on docker
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lorekkusu/example-docker)
 
-- ### [Docker Hub Repo](https://github.com/lorekkusu/example-docker)
+- ### [Docker Hub Repo](https://hub.docker.com/r/lorekkusu/test-nodejs-server)
 - ### [GitHub Repo](https://github.com/lorekkusu/example-docker)
 
 ---
