@@ -18,10 +18,10 @@ make build
 make run
 ```
 
-### Clear
+### Clean
 
 ```shell
-make -i clear # -i --ignore-error
+make -i clean # -i --ignore-error
 ```
 
 ### Publish
