@@ -3,5 +3,6 @@
 ## Usage
 
 ```shell
-make bu
+make build
+make run
 ```
