@@ -1,7 +1,6 @@
-
 tasks:
   - init: make build
-  - command: make run
+    command: make run
 
 ports:
   - port: 3000
