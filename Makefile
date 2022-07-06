@@ -1,7 +1,7 @@
 IMAGE := server
 VERSION := latest
 
-.PHONY: build run clean
+.PHONY: build run clean publish
 
 build:
 	docker build -t=$(IMAGE):$(VERSION) .
@@ -12,3 +12,7 @@ run:
 clean:
 	docker container prune -f
 	docker image prune -f
+
+publish:
+	docker tag server $(REPO)
+	docker push $(REPO) 
